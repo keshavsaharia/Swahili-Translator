@@ -1,0 +1,25 @@
+Class AdjPrefix1 AdjPrefix2 VerbPrefix VerbNegPrefix ObjectInfix Of PossessivePrefix Demo1 Demo2 Demo3 Which AnyQuantifier AllQuantifier  Possession
+ 0		-	-	-	-		-	-	-	-		-		-		-		-	-		-
+ 1  	m  	mw  a  	ha  	m  	wa  w  	huyu  	huyo 	yule 	yupi  	ye  yote  	mwenye
+ 101 	m  	mw  ni  si 		ni  wa  w  	huyu  	huyo  	yule  	yupi  	ye  yote  	mwenye
+ 102  	m  	mw  u  	hu  	ku  wa  w  	huyu  	huyo  	yule  	yupi  	ye  yote  	mwenye
+ 103  	m  	mw  a  	ha  	m  	wa  w  	huyu  	huyo 	yule 	yupi  	ye  yote  	mwenye
+ 104  	m  	mw  a  	ha  	m  	wa  y  	huyu  	huyo 	yule 	yupi  	ye  yote  	mwenye
+ 2  	wa  w  	wa  hawa  	wa 	wa  w  	hawa  	hao  	wale  	wepi  	wo  wote  	wenye
+ 201  	wa  w  	tu  hatu  	tu  wa  w  	hawa  	hao  	wale  	wepi  	o  	sote  	wenye
+ 202  	wa  w  	m  	ham  	m  	wa  w  	hawa  	hao  	wale 	wepi  	o  	nyote  	wenye
+ 203  	wa  w  	wa  hawa  	wa 	wa  w  	hawa  	hao  	wale  	wepi  	o  	wote  	wenye
+ 204  	wa  w  	wa  hawa  	wa 	wa  z  	hawa  	hao  	wale  	wepi  	wo  wote  	wenye
+ 3 		m 	mw 	u 	hau 	u	wa	w	huu		huo		ule		upi		o	wote	wenye
+ 4		mi	my	i	hai		i	ya	y	hii		hiyo	ile		ipi		yo	yote	yenye	
+ 5		-	-	li	hali	li	la	l	hili	hilo	lile	lipi	lo	lote	lenye
+ 6		ma	m	ya	haya	ya	ya	y	haya	hayo	yale	yapi	yo	yote	yenye
+ 7		ki	ch	ki	haki	ki	cha	ch	hiki	hicho	kile	kipi	cho	chote	chenye
+ 8		vi	vy	vi	havi	vi	vya	vy	hivi	hivyo	vile	vipi	vyo	vyote	vyenye
+ 9		n	nj	i	hai		i	ya	y	hii		hiyo	ile		ipi		yo	yote	yenye
+ 10		n	n	zi	hazi	zi	za	z	hizi	hizo	zile	zipi	zo	zote	zenye
+ 11	 	pa	p	pa	hapa	pa	pa	p	hapa	hapo	pale	-		po	pote	penye
+ 12		ku	kw	ku	haku	ku	kwa	kw	huku	huko	kule	-		ko	kote	kwenye
+ 13		m	m	m	ham		m	mwa	mw	humu	humo	mle		-		mo	mwote	mwenye	
+ 14		m	m	u	hau		u	wa	w	huu		huo		ule		upi		o	wote	wenye
+ 15		ku	kw	ku	haku	ku	kwa	kw	huku	huko	kule	kupi	ko	kote	kwenye

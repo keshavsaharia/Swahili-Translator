@@ -1,0 +1,8 @@
+English		Swahili
+when		lini
+what		nini
+what		gani
+where		wapi
+which		gani
+how_many	ngapi
+why			kwa_nini

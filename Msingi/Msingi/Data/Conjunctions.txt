@@ -1,0 +1,8 @@
+English	Swahili
+and		na
+but		lakini
+or		au
+nor		nor
+for		for
+so		so
+yet		yet

@@ -1,0 +1,13 @@
+English	Swahili	Class	
+it      -      15 
+i       mimi   101
+me      mimi   101
+you     wewe   102 
+he		yeye   103
+she  	yeye   103 
+we      sisi   201
+we_all	sisi  	201
+you_all nyinyi 202 
+they    wao    203
+they_all wao	203
+them    wao    203

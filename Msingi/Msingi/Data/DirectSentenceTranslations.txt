@@ -1,0 +1,12 @@
+English				Swahili
+how_about_you_?		na_wewe_je_?
+how_are_you_?		u_hali_gani_?
+how_are_things_?	habari_gani_?
+how_are_you_doing_?	hujambo_?
+goodbye				kwaheri
+thank_you			asante
+thank_you_very_much	asante_sana
+see_you_later		tutaonana_baadaye
+what_is_up_?		vipi_?
+good_morning		habari_za_asubuhi
+good_evening		habari_za_leo
